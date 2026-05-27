@@ -1,0 +1,1042 @@
+[
+  {
+    "fecha": "2026-06-11 14:00",
+    "pais_local": "MEX",
+    "pais_visitante": "RSA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Ciudad de México",
+    "lugar": "Ciudad de México",
+    "grupo": "A",
+    "num": 1
+  },
+  {
+    "fecha": "2026-06-11 21:00",
+    "pais_local": "KOR",
+    "pais_visitante": "CZE",
+    "fase": "Primera fase",
+    "estadio": "Estadio Guadalajara",
+    "lugar": "Guadalajara",
+    "grupo": "A",
+    "num": 2
+  },
+  {
+    "fecha": "2026-06-12 14:00",
+    "pais_local": "CAN",
+    "pais_visitante": "BIH",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "B",
+    "num": 3
+  },
+  {
+    "fecha": "2026-06-12 20:00",
+    "pais_local": "USA",
+    "pais_visitante": "PAR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "D",
+    "num": 4
+  },
+  {
+    "fecha": "2026-06-13 14:00",
+    "pais_local": "QAT",
+    "pais_visitante": "SUI",
+    "fase": "Primera fase",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "B",
+    "num": 5
+  },
+  {
+    "fecha": "2026-06-13 17:00",
+    "pais_local": "BRA",
+    "pais_visitante": "MAR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "C",
+    "num": 6
+  },
+  {
+    "fecha": "2026-06-13 20:00",
+    "pais_local": "HAI",
+    "pais_visitante": "SCO",
+    "fase": "Primera fase",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "C",
+    "num": 7
+  },
+  {
+    "fecha": "2026-06-13 23:00",
+    "pais_local": "AUS",
+    "pais_visitante": "TUR",
+    "fase": "Primera fase",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "D",
+    "num": 8
+  },
+  {
+    "fecha": "2026-06-14 12:00",
+    "pais_local": "GER",
+    "pais_visitante": "CUW",
+    "fase": "Primera fase",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "E",
+    "num": 9
+  },
+  {
+    "fecha": "2026-06-14 15:00",
+    "pais_local": "NED",
+    "pais_visitante": "JPN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "F",
+    "num": 10
+  },
+  {
+    "fecha": "2026-06-14 18:00",
+    "pais_local": "CIV",
+    "pais_visitante": "ECU",
+    "fase": "Primera fase",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "E",
+    "num": 11
+  },
+  {
+    "fecha": "2026-06-14 21:00",
+    "pais_local": "SWE",
+    "pais_visitante": "TUN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Monterrey",
+    "lugar": "Monterrey",
+    "grupo": "F",
+    "num": 12
+  },
+  {
+    "fecha": "2026-06-15 11:00",
+    "pais_local": "ESP",
+    "pais_visitante": "CPV",
+    "fase": "Primera fase",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "H",
+    "num": 13
+  },
+  {
+    "fecha": "2026-06-15 14:00",
+    "pais_local": "BEL",
+    "pais_visitante": "EGY",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "G",
+    "num": 14
+  },
+  {
+    "fecha": "2026-06-15 17:00",
+    "pais_local": "KSA",
+    "pais_visitante": "URU",
+    "fase": "Primera fase",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "H",
+    "num": 15
+  },
+  {
+    "fecha": "2026-06-15 20:00",
+    "pais_local": "IRN",
+    "pais_visitante": "NZL",
+    "fase": "Primera fase",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "G",
+    "num": 16
+  },
+  {
+    "fecha": "2026-06-16 14:00",
+    "pais_local": "FRA",
+    "pais_visitante": "SEN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "I",
+    "num": 17
+  },
+  {
+    "fecha": "2026-06-16 17:00",
+    "pais_local": "IRQ",
+    "pais_visitante": "NOR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "I",
+    "num": 18
+  },
+  {
+    "fecha": "2026-06-16 20:00",
+    "pais_local": "ARG",
+    "pais_visitante": "ALG",
+    "fase": "Primera fase",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "J",
+    "num": 19
+  },
+  {
+    "fecha": "2026-06-16 23:00",
+    "pais_local": "AUT",
+    "pais_visitante": "JOR",
+    "fase": "Primera fase",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "J",
+    "num": 20
+  },
+  {
+    "fecha": "2026-06-17 12:00",
+    "pais_local": "POR",
+    "pais_visitante": "COD",
+    "fase": "Primera fase",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "K",
+    "num": 21
+  },
+  {
+    "fecha": "2026-06-17 15:00",
+    "pais_local": "ENG",
+    "pais_visitante": "CRO",
+    "fase": "Primera fase",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "L",
+    "num": 22
+  },
+  {
+    "fecha": "2026-06-17 18:00",
+    "pais_local": "GHA",
+    "pais_visitante": "PAN",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "L",
+    "num": 23
+  },
+  {
+    "fecha": "2026-06-17 21:00",
+    "pais_local": "UZB",
+    "pais_visitante": "COL",
+    "fase": "Primera fase",
+    "estadio": "Estadio Ciudad de México",
+    "lugar": "Ciudad de México",
+    "grupo": "K",
+    "num": 24
+  },
+  {
+    "fecha": "2026-06-18 11:00",
+    "pais_local": "CZE",
+    "pais_visitante": "RSA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "A",
+    "num": 25
+  },
+  {
+    "fecha": "2026-06-18 14:00",
+    "pais_local": "SUI",
+    "pais_visitante": "BIH",
+    "fase": "Primera fase",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "B",
+    "num": 26
+  },
+  {
+    "fecha": "2026-06-18 17:00",
+    "pais_local": "CAN",
+    "pais_visitante": "QAT",
+    "fase": "Primera fase",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "B",
+    "num": 27
+  },
+  {
+    "fecha": "2026-06-18 20:00",
+    "pais_local": "MEX",
+    "pais_visitante": "KOR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Guadalajara",
+    "lugar": "Guadalajara",
+    "grupo": "A",
+    "num": 28
+  },
+  {
+    "fecha": "2026-06-19 14:00",
+    "pais_local": "USA",
+    "pais_visitante": "AUS",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "D",
+    "num": 29
+  },
+  {
+    "fecha": "2026-06-19 17:00",
+    "pais_local": "SCO",
+    "pais_visitante": "MAR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "C",
+    "num": 30
+  },
+  {
+    "fecha": "2026-06-19 19:30",
+    "pais_local": "BRA",
+    "pais_visitante": "HAI",
+    "fase": "Primera fase",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "C",
+    "num": 31
+  },
+  {
+    "fecha": "2026-06-19 22:00",
+    "pais_local": "TUR",
+    "pais_visitante": "PAR",
+    "fase": "Primera fase",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "D",
+    "num": 32
+  },
+  {
+    "fecha": "2026-06-20 12:00",
+    "pais_local": "NED",
+    "pais_visitante": "SWE",
+    "fase": "Primera fase",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "F",
+    "num": 33
+  },
+  {
+    "fecha": "2026-06-20 15:00",
+    "pais_local": "GER",
+    "pais_visitante": "CIV",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "E",
+    "num": 34
+  },
+  {
+    "fecha": "2026-06-20 19:00",
+    "pais_local": "ECU",
+    "pais_visitante": "CUW",
+    "fase": "Primera fase",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "E",
+    "num": 35
+  },
+  {
+    "fecha": "2026-06-20 23:00",
+    "pais_local": "TUN",
+    "pais_visitante": "JPN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Monterrey",
+    "lugar": "Monterrey",
+    "grupo": "F",
+    "num": 36
+  },
+  {
+    "fecha": "2026-06-21 11:00",
+    "pais_local": "ESP",
+    "pais_visitante": "KSA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "H",
+    "num": 37
+  },
+  {
+    "fecha": "2026-06-21 14:00",
+    "pais_local": "BEL",
+    "pais_visitante": "IRN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "G",
+    "num": 38
+  },
+  {
+    "fecha": "2026-06-21 17:00",
+    "pais_local": "URU",
+    "pais_visitante": "CPV",
+    "fase": "Primera fase",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "H",
+    "num": 39
+  },
+  {
+    "fecha": "2026-06-21 20:00",
+    "pais_local": "NZL",
+    "pais_visitante": "EGY",
+    "fase": "Primera fase",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "G",
+    "num": 40
+  },
+  {
+    "fecha": "2026-06-22 12:00",
+    "pais_local": "ARG",
+    "pais_visitante": "AUT",
+    "fase": "Primera fase",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "J",
+    "num": 41
+  },
+  {
+    "fecha": "2026-06-22 16:00",
+    "pais_local": "FRA",
+    "pais_visitante": "IRQ",
+    "fase": "Primera fase",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "I",
+    "num": 42
+  },
+  {
+    "fecha": "2026-06-22 19:00",
+    "pais_local": "NOR",
+    "pais_visitante": "SEN",
+    "fase": "Primera fase",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "I",
+    "num": 43
+  },
+  {
+    "fecha": "2026-06-22 22:00",
+    "pais_local": "JOR",
+    "pais_visitante": "ALG",
+    "fase": "Primera fase",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "J",
+    "num": 44
+  },
+  {
+    "fecha": "2026-06-23 12:00",
+    "pais_local": "POR",
+    "pais_visitante": "UZB",
+    "fase": "Primera fase",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "K",
+    "num": 45
+  },
+  {
+    "fecha": "2026-06-23 15:00",
+    "pais_local": "ENG",
+    "pais_visitante": "GHA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "L",
+    "num": 46
+  },
+  {
+    "fecha": "2026-06-23 18:00",
+    "pais_local": "PAN",
+    "pais_visitante": "CRO",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "L",
+    "num": 47
+  },
+  {
+    "fecha": "2026-06-23 21:00",
+    "pais_local": "COL",
+    "pais_visitante": "COD",
+    "fase": "Primera fase",
+    "estadio": "Estadio Guadalajara",
+    "lugar": "Guadalajara",
+    "grupo": "K",
+    "num": 48
+  },
+  {
+    "fecha": "2026-06-24 14:00",
+    "pais_local": "SUI",
+    "pais_visitante": "CAN",
+    "fase": "Primera fase",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "B",
+    "num": 49
+  },
+  {
+    "fecha": "2026-06-24 14:00",
+    "pais_local": "BIH",
+    "pais_visitante": "QAT",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "B",
+    "num": 50
+  },
+  {
+    "fecha": "2026-06-24 17:00",
+    "pais_local": "SCO",
+    "pais_visitante": "BRA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "C",
+    "num": 51
+  },
+  {
+    "fecha": "2026-06-24 17:00",
+    "pais_local": "MAR",
+    "pais_visitante": "HAI",
+    "fase": "Primera fase",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "C",
+    "num": 52
+  },
+  {
+    "fecha": "2026-06-24 20:00",
+    "pais_local": "CZE",
+    "pais_visitante": "MEX",
+    "fase": "Primera fase",
+    "estadio": "Estadio Ciudad de México",
+    "lugar": "Ciudad de México",
+    "grupo": "A",
+    "num": 53
+  },
+  {
+    "fecha": "2026-06-24 20:00",
+    "pais_local": "RSA",
+    "pais_visitante": "KOR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Monterrey",
+    "lugar": "Monterrey",
+    "grupo": "A",
+    "num": 54
+  },
+  {
+    "fecha": "2026-06-25 15:00",
+    "pais_local": "CUW",
+    "pais_visitante": "CIV",
+    "fase": "Primera fase",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "E",
+    "num": 55
+  },
+  {
+    "fecha": "2026-06-25 15:00",
+    "pais_local": "ECU",
+    "pais_visitante": "GER",
+    "fase": "Primera fase",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "E",
+    "num": 56
+  },
+  {
+    "fecha": "2026-06-25 18:00",
+    "pais_local": "JPN",
+    "pais_visitante": "SWE",
+    "fase": "Primera fase",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "F",
+    "num": 57
+  },
+  {
+    "fecha": "2026-06-25 18:00",
+    "pais_local": "TUN",
+    "pais_visitante": "NED",
+    "fase": "Primera fase",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "F",
+    "num": 58
+  },
+  {
+    "fecha": "2026-06-25 21:00",
+    "pais_local": "TUR",
+    "pais_visitante": "USA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "D",
+    "num": 59
+  },
+  {
+    "fecha": "2026-06-25 21:00",
+    "pais_local": "PAR",
+    "pais_visitante": "AUS",
+    "fase": "Primera fase",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "D",
+    "num": 60
+  },
+  {
+    "fecha": "2026-06-26 14:00",
+    "pais_local": "NOR",
+    "pais_visitante": "FRA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "I",
+    "num": 61
+  },
+  {
+    "fecha": "2026-06-26 14:00",
+    "pais_local": "SEN",
+    "pais_visitante": "IRQ",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "I",
+    "num": 62
+  },
+  {
+    "fecha": "2026-06-26 19:00",
+    "pais_local": "CPV",
+    "pais_visitante": "KSA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "H",
+    "num": 63
+  },
+  {
+    "fecha": "2026-06-26 19:00",
+    "pais_local": "URU",
+    "pais_visitante": "ESP",
+    "fase": "Primera fase",
+    "estadio": "Estadio Guadalajara",
+    "lugar": "Guadalajara",
+    "grupo": "H",
+    "num": 64
+  },
+  {
+    "fecha": "2026-06-26 22:00",
+    "pais_local": "EGY",
+    "pais_visitante": "IRN",
+    "fase": "Primera fase",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "G",
+    "num": 65
+  },
+  {
+    "fecha": "2026-06-26 22:00",
+    "pais_local": "NZL",
+    "pais_visitante": "BEL",
+    "fase": "Primera fase",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "G",
+    "num": 66
+  },
+  {
+    "fecha": "2026-06-27 16:00",
+    "pais_local": "PAN",
+    "pais_visitante": "ENG",
+    "fase": "Primera fase",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "L",
+    "num": 67
+  },
+  {
+    "fecha": "2026-06-27 16:00",
+    "pais_local": "CRO",
+    "pais_visitante": "GHA",
+    "fase": "Primera fase",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "L",
+    "num": 68
+  },
+  {
+    "fecha": "2026-06-27 18:30",
+    "pais_local": "COL",
+    "pais_visitante": "POR",
+    "fase": "Primera fase",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "K",
+    "num": 69
+  },
+  {
+    "fecha": "2026-06-27 18:30",
+    "pais_local": "COD",
+    "pais_visitante": "UZB",
+    "fase": "Primera fase",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "K",
+    "num": 70
+  },
+  {
+    "fecha": "2026-06-27 21:00",
+    "pais_local": "ALG",
+    "pais_visitante": "AUT",
+    "fase": "Primera fase",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "J",
+    "num": 71
+  },
+  {
+    "fecha": "2026-06-27 21:00",
+    "pais_local": "JOR",
+    "pais_visitante": "ARG",
+    "fase": "Primera fase",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "J",
+    "num": 72
+  },
+  {
+    "fecha": "2026-06-28 14:00",
+    "pais_local": "2A",
+    "pais_visitante": "2B",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "",
+    "num": 73
+  },
+  {
+    "fecha": "2026-06-29 12:00",
+    "pais_local": "1C",
+    "pais_visitante": "2F",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "",
+    "num": 74
+  },
+  {
+    "fecha": "2026-06-29 15:30",
+    "pais_local": "1E",
+    "pais_visitante": "3ABCDF",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "",
+    "num": 75
+  },
+  {
+    "fecha": "2026-06-29 20:00",
+    "pais_local": "1F",
+    "pais_visitante": "2C",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Monterrey",
+    "lugar": "Monterrey",
+    "grupo": "",
+    "num": 76
+  },
+  {
+    "fecha": "2026-06-30 12:00",
+    "pais_local": "2E",
+    "pais_visitante": "2I",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "",
+    "num": 77
+  },
+  {
+    "fecha": "2026-06-30 16:00",
+    "pais_local": "1I",
+    "pais_visitante": "3CDFGH",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "",
+    "num": 78
+  },
+  {
+    "fecha": "2026-06-30 20:00",
+    "pais_local": "1A",
+    "pais_visitante": "3CEFHI",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Ciudad de México",
+    "lugar": "Ciudad de México",
+    "grupo": "",
+    "num": 79
+  },
+  {
+    "fecha": "2026-07-01 11:00",
+    "pais_local": "1L",
+    "pais_visitante": "3EHIJK",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "",
+    "num": 80
+  },
+  {
+    "fecha": "2026-07-01 15:00",
+    "pais_local": "1G",
+    "pais_visitante": "3AEHIJ",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "",
+    "num": 81
+  },
+  {
+    "fecha": "2026-07-01 19:00",
+    "pais_local": "1D",
+    "pais_visitante": "3BEFIJ",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio de la Bahía de San Francisco",
+    "lugar": "Área de la Bahía de San Francisco",
+    "grupo": "",
+    "num": 82
+  },
+  {
+    "fecha": "2026-07-02 14:00",
+    "pais_local": "1H",
+    "pais_visitante": "2J",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "",
+    "num": 83
+  },
+  {
+    "fecha": "2026-07-02 18:00",
+    "pais_local": "2K",
+    "pais_visitante": "2L",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio de Toronto",
+    "lugar": "Toronto",
+    "grupo": "",
+    "num": 84
+  },
+  {
+    "fecha": "2026-07-02 22:00",
+    "pais_local": "1B",
+    "pais_visitante": "3EFGIJ",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "",
+    "num": 85
+  },
+  {
+    "fecha": "2026-07-03 13:00",
+    "pais_local": "2D",
+    "pais_visitante": "2G",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "",
+    "num": 86
+  },
+  {
+    "fecha": "2026-07-03 17:00",
+    "pais_local": "1J",
+    "pais_visitante": "2H",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "",
+    "num": 87
+  },
+  {
+    "fecha": "2026-07-03 20:30",
+    "pais_local": "1K",
+    "pais_visitante": "3DEIJL",
+    "fase": "Dieciseisavos de final",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "",
+    "num": 88
+  },
+  {
+    "fecha": "2026-07-04 12:00",
+    "pais_local": "W73",
+    "pais_visitante": "W75",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Houston",
+    "lugar": "Houston",
+    "grupo": "",
+    "num": 89
+  },
+  {
+    "fecha": "2026-07-04 16:00",
+    "pais_local": "W74",
+    "pais_visitante": "W77",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Filadelfia",
+    "lugar": "Filadelfia",
+    "grupo": "",
+    "num": 90
+  },
+  {
+    "fecha": "2026-07-05 15:00",
+    "pais_local": "W76",
+    "pais_visitante": "W78",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "",
+    "num": 91
+  },
+  {
+    "fecha": "2026-07-05 19:00",
+    "pais_local": "W79",
+    "pais_visitante": "W80",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Ciudad de México",
+    "lugar": "Ciudad de México",
+    "grupo": "",
+    "num": 92
+  },
+  {
+    "fecha": "2026-07-06 14:00",
+    "pais_local": "W83",
+    "pais_visitante": "W84",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "",
+    "num": 93
+  },
+  {
+    "fecha": "2026-07-06 19:00",
+    "pais_local": "W81",
+    "pais_visitante": "W82",
+    "fase": "Octavos de final",
+    "estadio": "Estadio de Seattle",
+    "lugar": "Seattle",
+    "grupo": "",
+    "num": 94
+  },
+  {
+    "fecha": "2026-07-07 11:00",
+    "pais_local": "W86",
+    "pais_visitante": "W88",
+    "fase": "Octavos de final",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "",
+    "num": 95
+  },
+  {
+    "fecha": "2026-07-07 15:00",
+    "pais_local": "W85",
+    "pais_visitante": "W87",
+    "fase": "Octavos de final",
+    "estadio": "Estadio BC Place Vancouver",
+    "lugar": "Vancouver",
+    "grupo": "",
+    "num": 96
+  },
+  {
+    "fecha": "2026-07-09 15:00",
+    "pais_local": "W89",
+    "pais_visitante": "W90",
+    "fase": "Cuartos de final",
+    "estadio": "Estadio Boston",
+    "lugar": "Boston",
+    "grupo": "",
+    "num": 97
+  },
+  {
+    "fecha": "2026-07-10 14:00",
+    "pais_local": "W93",
+    "pais_visitante": "W94",
+    "fase": "Cuartos de final",
+    "estadio": "Estadio Los Angeles",
+    "lugar": "Los Ángeles",
+    "grupo": "",
+    "num": 98
+  },
+  {
+    "fecha": "2026-07-11 16:00",
+    "pais_local": "W91",
+    "pais_visitante": "W92",
+    "fase": "Cuartos de final",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "",
+    "num": 99
+  },
+  {
+    "fecha": "2026-07-11 20:00",
+    "pais_local": "W95",
+    "pais_visitante": "W96",
+    "fase": "Cuartos de final",
+    "estadio": "Estadio Kansas City",
+    "lugar": "Kansas City",
+    "grupo": "",
+    "num": 100
+  },
+  {
+    "fecha": "2026-07-14 14:00",
+    "pais_local": "W97",
+    "pais_visitante": "W98",
+    "fase": "Semifinal",
+    "estadio": "Estadio Dallas",
+    "lugar": "Dallas",
+    "grupo": "",
+    "num": 101
+  },
+  {
+    "fecha": "2026-07-15 14:00",
+    "pais_local": "W99",
+    "pais_visitante": "W100",
+    "fase": "Semifinal",
+    "estadio": "Estadio Atlanta",
+    "lugar": "Atlanta",
+    "grupo": "",
+    "num": 102
+  },
+  {
+    "fecha": "2026-07-18 16:00",
+    "pais_local": "RU101",
+    "pais_visitante": "RU102",
+    "fase": "Partido por el tercer puesto",
+    "estadio": "Estadio Miami",
+    "lugar": "Miami",
+    "grupo": "",
+    "num": 103
+  },
+  {
+    "fecha": "2026-07-19 14:00",
+    "pais_local": "W101",
+    "pais_visitante": "W102",
+    "fase": "Final",
+    "estadio": "Estadio Nueva York/Nueva Jersey",
+    "lugar": "Nueva York",
+    "grupo": "",
+    "num": 104
+  }
+]

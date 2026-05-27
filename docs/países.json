@@ -1,0 +1,434 @@
+[
+    {
+        "NombrePais": "Canadá",
+        "NombreShortPais": "CAN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN",
+        "backgroundColor": "#D52B1E",
+        "TextColor": "#FFFFFF",
+        "Grupo": "B",
+        "Tipo": "A"
+    },
+    {
+        "NombrePais": "EE. UU.",
+        "NombreShortPais": "USA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA",
+        "backgroundColor": "#0326DE",
+        "TextColor": "#FFFFFF",
+        "Grupo": "D",
+        "Tipo": "A"
+    },
+    {
+        "NombrePais": "México",
+        "NombreShortPais": "MEX",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX",
+        "backgroundColor": "#27A550",
+        "TextColor": "#000000",
+        "Grupo": "A",
+        "Tipo": "A"
+    },
+    {
+        "NombrePais": "Alemania",
+        "NombreShortPais": "GER",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER",
+        "backgroundColor": "#1F1F1F",
+        "TextColor": "#FFFFFF",
+        "Grupo": "E",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Arabia Saudí",
+        "NombreShortPais": "KSA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA",
+        "backgroundColor": "#27A550",
+        "TextColor": "#000000",
+        "Grupo": "H",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Argelia",
+        "NombreShortPais": "ALG",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG",
+        "backgroundColor": "#00A067",
+        "TextColor": "#000000",
+        "Grupo": "J",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Argentina",
+        "NombreShortPais": "ARG",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG",
+        "backgroundColor": "#9CC9F2",
+        "TextColor": "#000000",
+        "Grupo": "J",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Australia",
+        "NombreShortPais": "AUS",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS",
+        "backgroundColor": "#FFC100",
+        "TextColor": "#000000",
+        "Grupo": "D",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Austria",
+        "NombreShortPais": "AUT",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT",
+        "backgroundColor": "#ED3D32",
+        "TextColor": "#000000",
+        "Grupo": "J",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Bélgica",
+        "NombreShortPais": "BEL",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL",
+        "backgroundColor": "#880029",
+        "TextColor": "#FFFFFF",
+        "Grupo": "G",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Bosnia y Herzegovina",
+        "NombreShortPais": "BIH",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/BIH",
+        "backgroundColor": "#2739D7",
+        "TextColor": "#FFFFFF",
+        "Grupo": "B",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Brasil",
+        "NombreShortPais": "BRA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA",
+        "backgroundColor": "#FFCF25",
+        "TextColor": "#000000",
+        "Grupo": "C",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Catar",
+        "NombreShortPais": "QAT",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/QAT",
+        "backgroundColor": "#8D1B3D",
+        "TextColor": "#FFFFFF",
+        "Grupo": "B",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Chequia",
+        "NombreShortPais": "CZE",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE",
+        "backgroundColor": "#FF2727",
+        "TextColor": "#000000",
+        "Grupo": "A",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Colombia",
+        "NombreShortPais": "COL",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL",
+        "backgroundColor": "#FFD600",
+        "TextColor": "#000000",
+        "Grupo": "K",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Costa de Marfil",
+        "NombreShortPais": "CIV",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV",
+        "backgroundColor": "#FF8A00",
+        "TextColor": "#000000",
+        "Grupo": "E",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Croacia",
+        "NombreShortPais": "CRO",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO",
+        "backgroundColor": "#F30A0A",
+        "TextColor": "#000000",
+        "Grupo": "L",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Curazao",
+        "NombreShortPais": "CUW",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW",
+        "backgroundColor": "#236CDA",
+        "TextColor": "#FFFFFF",
+        "Grupo": "E",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Ecuador",
+        "NombreShortPais": "ECU",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU",
+        "backgroundColor": "#FFD600",
+        "TextColor": "#000000",
+        "Grupo": "E",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Egipto",
+        "NombreShortPais": "EGY",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY",
+        "backgroundColor": "#F1051F",
+        "TextColor": "#000000",
+        "Grupo": "G",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Escocia",
+        "NombreShortPais": "SCO",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO",
+        "backgroundColor": "#1E1C71",
+        "TextColor": "#FFFFFF",
+        "Grupo": "C",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "España",
+        "NombreShortPais": "ESP",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP",
+        "backgroundColor": "#FF0000",
+        "TextColor": "#000000",
+        "Grupo": "H",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Francia",
+        "NombreShortPais": "FRA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA",
+        "backgroundColor": "#00418F",
+        "TextColor": "#FFFFFF",
+        "Grupo": "I",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Ghana",
+        "NombreShortPais": "GHA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA",
+        "backgroundColor": "#FFC100",
+        "TextColor": "#000000",
+        "Grupo": "L",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Haití",
+        "NombreShortPais": "HAI",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/HAI",
+        "backgroundColor": "#0013BA",
+        "TextColor": "#FFFFFF",
+        "Grupo": "C",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Inglaterra",
+        "NombreShortPais": "ENG",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG",
+        "backgroundColor": "#FFFFFF",
+        "TextColor": "#000000",
+        "Grupo": "L",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Irak",
+        "NombreShortPais": "IRQ",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ",
+        "backgroundColor": "#0D7053",
+        "TextColor": "#FFFFFF",
+        "Grupo": "I",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Islas de Cabo Verde",
+        "NombreShortPais": "CPV",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV",
+        "backgroundColor": "#222E77",
+        "TextColor": "#FFFFFF",
+        "Grupo": "H",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Japón",
+        "NombreShortPais": "JPN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN",
+        "backgroundColor": "#2830E7",
+        "TextColor": "#FFFFFF",
+        "Grupo": "F",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Jordania",
+        "NombreShortPais": "JOR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/JOR",
+        "backgroundColor": "#FF1A1A",
+        "TextColor": "#000000",
+        "Grupo": "J",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Marruecos",
+        "NombreShortPais": "MAR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR",
+        "backgroundColor": "#E40000",
+        "TextColor": "#000000",
+        "Grupo": "C",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Noruega",
+        "NombreShortPais": "NOR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR",
+        "backgroundColor": "#C70000",
+        "TextColor": "#FFFFFF",
+        "Grupo": "I",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Nueva Zelanda",
+        "NombreShortPais": "NZL",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL",
+        "backgroundColor": "#000000",
+        "TextColor": "#FFFFFF",
+        "Grupo": "G",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Países Bajos",
+        "NombreShortPais": "NED",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED",
+        "backgroundColor": "#FF7A00",
+        "TextColor": "#000000",
+        "Grupo": "F",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Panamá",
+        "NombreShortPais": "PAN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAN",
+        "backgroundColor": "#E41027",
+        "TextColor": "#FFFFFF",
+        "Grupo": "L",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Paraguay",
+        "NombreShortPais": "PAR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR",
+        "backgroundColor": "#DE0000",
+        "TextColor": "#FFFFFF",
+        "Grupo": "D",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Portugal",
+        "NombreShortPais": "POR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR",
+        "backgroundColor": "#FF0000",
+        "TextColor": "#000000",
+        "Grupo": "K",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "RD Congo",
+        "NombreShortPais": "COD",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD",
+        "backgroundColor": "#007FFF",
+        "TextColor": "#000000",
+        "Grupo": "K",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "República de Corea",
+        "NombreShortPais": "KOR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR",
+        "backgroundColor": "#FF253A",
+        "TextColor": "#000000",
+        "Grupo": "A",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "RI de Irán",
+        "NombreShortPais": "IRN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN",
+        "backgroundColor": "#DF1818",
+        "TextColor": "#FFFFFF",
+        "Grupo": "G",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Senegal",
+        "NombreShortPais": "SEN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN",
+        "backgroundColor": "#FFDA17",
+        "TextColor": "#000000",
+        "Grupo": "I",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Sudáfrica",
+        "NombreShortPais": "RSA",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA",
+        "backgroundColor": "#FFD600",
+        "TextColor": "#000000",
+        "Grupo": "A",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Suecia",
+        "NombreShortPais": "SWE",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE",
+        "backgroundColor": "#377E3F",
+        "TextColor": "#FFFFFF",
+        "Grupo": "F",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Suiza",
+        "NombreShortPais": "SUI",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI",
+        "backgroundColor": "#E20000",
+        "TextColor": "#FFFFFF",
+        "Grupo": "B",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Túnez",
+        "NombreShortPais": "TUN",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN",
+        "backgroundColor": "#E91426",
+        "TextColor": "#FFFFFF",
+        "Grupo": "F",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Turquía",
+        "NombreShortPais": "TUR",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR",
+        "backgroundColor": "#FFFFFF",
+        "TextColor": "#000000",
+        "Grupo": "D",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Uruguay",
+        "NombreShortPais": "URU",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU",
+        "backgroundColor": "#7EC1FF",
+        "TextColor": "#000000",
+        "Grupo": "H",
+        "Tipo": "C"
+    },
+    {
+        "NombrePais": "Uzbekistán",
+        "NombreShortPais": "UZB",
+        "urlFlag": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB",
+        "backgroundColor": "#112BB3",
+        "TextColor": "#FFFFFF",
+        "Grupo": "K",
+        "Tipo": "C"
+    }
+]
