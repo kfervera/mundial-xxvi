@@ -7,6 +7,7 @@ import TournamentProgressChart from '@/components/dashboard/TournamentProgressCh
 import ResultsDistributionChart from '@/components/dashboard/ResultsDistributionChart'
 import GoalsBarChart from '@/components/dashboard/GoalsBarChart'
 import TopScorers from '@/components/dashboard/TopScorers'
+import MiPronosticoCard from '@/components/dashboard/MiPronosticoCard'
 
 function StatPill({ label, value }: { label: string; value: string | number }) {
   return (
@@ -44,6 +45,8 @@ export default function DashboardPage() {
   return (
     <div className="flex-1 overflow-y-auto pb-8">
       <div className="max-w-4xl mx-auto px-4 py-6 space-y-6">
+
+        <MiPronosticoCard />
 
         {/* Stats visibles siempre */}
         <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">

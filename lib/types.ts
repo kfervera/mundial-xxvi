@@ -46,3 +46,16 @@ export interface MarcadorCalculado {
   penales_local?: number
   penales_visitante?: number
 }
+
+export interface PronosticoState {
+  grupos: Record<string, string[]>
+  gruposCompleted: boolean
+  mejoresTerceros: string[]
+  tercerosCompleted: boolean
+  knockout: Record<number, string>
+  dieciseisavosCompleted: boolean
+  octavosCompleted: boolean
+  cuartosCompleted: boolean
+  semifinalCompleted: boolean
+  campeon: string | null
+}

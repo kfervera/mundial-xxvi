@@ -11,6 +11,7 @@ interface HamburgerMenuProps {
 const menuItems = [
   { label: 'Dashboard', href: '/', color: '#2B54FE' },
   { label: 'Partidos', href: '/partidos', color: '#E70D01' },
+  { label: 'Mi Pronóstico', href: '/pronostico', color: '#16a34a' },
 ]
 
 export default function HamburgerMenu({ isOpen, onClose }: HamburgerMenuProps) {
