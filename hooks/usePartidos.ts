@@ -10,34 +10,43 @@ export function usePartidos(fase?: string) {
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    let query = supabase
-      .from('partidos')
-      .select(`
-        *,
-        local:pais_local(codigo, nombre_largo, nombre_corto, url_flag, background_color, text_color, grupo, tipo),
-        visitante:pais_visitante(codigo, nombre_largo, nombre_corto, url_flag, background_color, text_color, grupo, tipo),
-        goleadores(*)
-      `)
-      .order('num')
+    async function fetchData() {
+      const [partidosRes, paisesRes] = await Promise.all([
+        (() => {
+          let q = supabase.from('partidos').select('*, goleadores(*)').order('num')
+          if (fase) q = q.eq('fase', fase)
+          return q
+        })(),
+        supabase.from('paises').select('*'),
+      ])
 
-    if (fase) {
-      query = query.eq('fase', fase)
+      if (partidosRes.error) {
+        setError(partidosRes.error.message)
+        setLoading(false)
+        return
+      }
+      if (paisesRes.error) {
+        setError(paisesRes.error.message)
+        setLoading(false)
+        return
+      }
+
+      const paisMap = new Map<string, Pais>(
+        (paisesRes.data ?? []).map((p: Pais) => [p.codigo, p])
+      )
+
+      const mapped = (partidosRes.data ?? []).map((p: Record<string, unknown>) => ({
+        ...p,
+        local: paisMap.get(p.pais_local as string) ?? null,
+        visitante: paisMap.get(p.pais_visitante as string) ?? null,
+        goleadores: Array.isArray(p.goleadores) ? p.goleadores : [],
+      })) as PartidoCompleto[]
+
+      setPartidos(mapped)
+      setLoading(false)
     }
 
-    query.then(({ data, error }) => {
-      if (error) {
-        setError(error.message)
-      } else {
-        const mapped = (data ?? []).map((p: Record<string, unknown>) => ({
-          ...p,
-          local: p.local as Pais,
-          visitante: p.visitante as Pais,
-          goleadores: Array.isArray(p.goleadores) ? p.goleadores : [],
-        })) as PartidoCompleto[]
-        setPartidos(mapped)
-      }
-      setLoading(false)
-    })
+    fetchData()
   }, [fase])
 
   return { partidos, loading, error }
