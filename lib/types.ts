@@ -35,8 +35,8 @@ export interface Goleador {
 }
 
 export interface PartidoCompleto extends Partido {
-  local: Pais
-  visitante: Pais
+  local: Pais | null
+  visitante: Pais | null
   goleadores: Goleador[]
 }
 

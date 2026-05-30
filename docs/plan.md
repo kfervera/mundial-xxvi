@@ -149,7 +149,7 @@ Si `jugado = true` y no hay filas en `goleadores` → resultado 0-0.
 
 ---
 
-## Fase 5: Layout y navegación
+## Fase 5: Layout y navegación ✅
 
 ### Paso 9 — Header negro (top bar)
 - Fondo `#000000`, altura fija en todos los tamaños
@@ -174,7 +174,7 @@ Si `jugado = true` y no hay filas en `goleadores` → resultado 0-0.
 
 ---
 
-## Fase 6: Componentes base
+## Fase 6: Componentes base ✅
 
 ### Paso 12 — Componente `MatchCard`
 Información en el card:
@@ -196,7 +196,7 @@ Información en el card:
 
 ---
 
-## Fase 7: Pantalla de partidos (`/partidos`)
+## Fase 7: Pantalla de partidos (`/partidos`) ✅
 
 ### Paso 14 — Tab navigator inferior
 - 3 opciones fijas en la parte inferior de la pantalla (sticky bottom)
