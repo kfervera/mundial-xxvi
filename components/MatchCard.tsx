@@ -4,6 +4,7 @@ import ScoreInput from './ScoreInput'
 
 interface MatchCardProps {
   partido: PartidoCompleto
+  showGroup?: boolean
 }
 
 function formatDate(fechaStr: string): string {
@@ -58,7 +59,7 @@ function buildGoalRows(
   return Object.values(map)
 }
 
-export default function MatchCard({ partido }: MatchCardProps) {
+export default function MatchCard({ partido, showGroup }: MatchCardProps) {
   const localColor = partido.local?.background_color ?? '#94a3b8'
   const visitanteColor = partido.visitante?.background_color ?? '#94a3b8'
   const hasGoleadores = partido.goleadores.length > 0 && partido.jugado
@@ -72,9 +73,16 @@ export default function MatchCard({ partido }: MatchCardProps) {
       style={{ borderLeft: `4px solid ${localColor}`, borderRight: `4px solid ${visitanteColor}` }}
     >
       <div className="px-3 pt-2.5 pb-1">
-        <p className="text-[11px] font-semibold text-zinc-500 truncate">
-          {partido.estadio} · {partido.lugar}
-        </p>
+        <div className="flex items-center justify-between gap-2">
+          <p className="text-[11px] font-semibold text-zinc-500 truncate">
+            {partido.estadio} · {partido.lugar}
+          </p>
+          {showGroup && partido.grupo && (
+            <span className="shrink-0 text-[10px] font-bold uppercase tracking-wide bg-zinc-200 text-zinc-600 px-1.5 py-0.5 rounded">
+              Grupo {partido.grupo}
+            </span>
+          )}
+        </div>
         <p className="text-[11px] text-zinc-400">{formatDate(partido.fecha)}</p>
       </div>
 

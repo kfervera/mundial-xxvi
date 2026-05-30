@@ -1,5 +1,6 @@
 'use client'
 
+import { useState } from 'react'
 import { useScores } from '@/context/ScoresContext'
 import type { PartidoCompleto } from '@/lib/types'
 
@@ -10,6 +11,9 @@ interface ScoreInputProps {
 export default function ScoreInput({ partido }: ScoreInputProps) {
   const { getDisplayScore, setLocalScore } = useScores()
   const { marcador, bloqueado } = getDisplayScore(partido)
+
+  const [localRaw, setLocalRaw] = useState<string | null>(null)
+  const [visitanteRaw, setVisitanteRaw] = useState<string | null>(null)
 
   if (bloqueado) {
     return (
@@ -28,33 +32,67 @@ export default function ScoreInput({ partido }: ScoreInputProps) {
     )
   }
 
-  function handleChange(side: 'local' | 'visitante', raw: string) {
-    const val = raw === '' ? 0 : parseInt(raw, 10)
+  const localDisplay =
+    localRaw !== null
+      ? localRaw
+      : marcador?.goles_local != null
+        ? String(marcador.goles_local)
+        : ''
+
+  const visitanteDisplay =
+    visitanteRaw !== null
+      ? visitanteRaw
+      : marcador?.goles_visitante != null
+        ? String(marcador.goles_visitante)
+        : ''
+
+  function commitLocal(raw: string) {
+    if (raw === '') return
+    const val = parseInt(raw, 10)
+    if (isNaN(val) || val < 0) return
+    const gv = marcador?.goles_visitante ?? 0
+    setLocalScore(partido.num, val, gv)
+  }
+
+  function commitVisitante(raw: string) {
+    if (raw === '') return
+    const val = parseInt(raw, 10)
     if (isNaN(val) || val < 0) return
     const gl = marcador?.goles_local ?? 0
-    const gv = marcador?.goles_visitante ?? 0
-    if (side === 'local') setLocalScore(partido.num, val, gv)
-    else setLocalScore(partido.num, gl, val)
+    setLocalScore(partido.num, gl, val)
   }
+
+  const inputClass =
+    'w-9 h-9 text-center text-lg font-bold text-zinc-900 border-2 border-zinc-200 rounded focus:outline-none focus:border-zinc-400 bg-zinc-50'
 
   return (
     <div className="flex items-center gap-1.5 min-w-[64px] justify-center">
       <input
         type="number"
         min="0"
-        value={marcador?.goles_local ?? ''}
-        onChange={(e) => handleChange('local', e.target.value)}
+        value={localDisplay}
         placeholder="–"
-        className="w-9 h-9 text-center text-lg font-bold border-2 border-zinc-200 rounded focus:outline-none focus:border-zinc-400 bg-zinc-50"
+        className={inputClass}
+        onFocus={() => setLocalRaw('')}
+        onChange={(e) => setLocalRaw(e.target.value)}
+        onBlur={() => {
+          commitLocal(localRaw ?? '')
+          setLocalRaw(null)
+        }}
       />
       <span className="text-zinc-300 font-bold text-lg">–</span>
       <input
         type="number"
         min="0"
-        value={marcador?.goles_visitante ?? ''}
-        onChange={(e) => handleChange('visitante', e.target.value)}
+        value={visitanteDisplay}
         placeholder="–"
-        className="w-9 h-9 text-center text-lg font-bold border-2 border-zinc-200 rounded focus:outline-none focus:border-zinc-400 bg-zinc-50"
+        className={inputClass}
+        onFocus={() => setVisitanteRaw('')}
+        onChange={(e) => setVisitanteRaw(e.target.value)}
+        onBlur={() => {
+          commitVisitante(visitanteRaw ?? '')
+          setVisitanteRaw(null)
+        }}
       />
     </div>
   )
