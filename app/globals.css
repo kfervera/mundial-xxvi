@@ -10,6 +10,15 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-brand-red: #E70D01;
+  --color-brand-orange: #FF4B00;
+  --color-brand-purple-light: #B494FF;
+  --color-brand-blue: #2B54FE;
+  --color-brand-lime: #B0D700;
+  --color-brand-burgundy: #81150B;
+  --color-brand-purple-dark: #6710F2;
+  --color-brand-cyan: #5BE1E9;
+  --color-brand-teal: #014141;
 }
 
 @media (prefers-color-scheme: dark) {

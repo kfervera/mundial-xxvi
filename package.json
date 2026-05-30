@@ -2,10 +2,13 @@
   "name": "mundial-xxvi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kfervera.github.io/mundial-xxvi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .next/build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.106.2",
@@ -20,6 +23,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

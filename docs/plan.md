@@ -236,7 +236,7 @@ Información en el card:
 
 ---
 
-## Fase 8: Dashboard (`/`)
+## Fase 8: Dashboard (`/`) ✅
 
 ### Paso 18 — Estadísticas del dashboard
 Las stats se calculan combinando resultados de la BD con predicciones locales del `ScoresContext`.
@@ -269,7 +269,7 @@ Las stats se calculan combinando resultados de la BD con predicciones locales de
 
 ---
 
-## Fase 9: Diseño visual y paleta
+## Fase 9: Diseño visual y paleta ✅
 
 ### Paso 21 — Tokens de diseño (Tailwind config)
 Extender `tailwind.config.ts` con la paleta personalizada:
@@ -295,7 +295,7 @@ colors:
 
 ---
 
-## Fase 10: Responsividad
+## Fase 10: Responsividad ✅
 
 ### Paso 23 — Breakpoints y ajustes mobile/desktop
 | Elemento | Mobile | Desktop |

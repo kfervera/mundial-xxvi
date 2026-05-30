@@ -23,7 +23,7 @@ export default function TabNavigator({ activeTab, onTabChange }: TabNavigatorPro
           key={id}
           onClick={() => onTabChange(id)}
           className={`flex flex-1 flex-col sm:flex-row items-center justify-center gap-1 py-3 px-2 transition-colors text-xs font-medium ${
-            activeTab === id ? 'text-[#2B54FE]' : 'text-zinc-400 hover:text-zinc-600'
+            activeTab === id ? 'text-brand-blue' : 'text-zinc-400 hover:text-zinc-600'
           }`}
         >
           <Icon size={20} strokeWidth={activeTab === id ? 2.5 : 1.8} />
